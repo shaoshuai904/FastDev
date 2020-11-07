@@ -5,10 +5,7 @@
     <color name="app_title_color">#333333</color>
 
 
-    <color name="splash_bg">#FEFEFE</color>
-
-    <color name="result_view">#b0000000</color>
-    <color name="colorBackground">#F3F6FA</color>
+    <color name="app_main_white">#F3F6FA</color>
 
 
 </resources>
