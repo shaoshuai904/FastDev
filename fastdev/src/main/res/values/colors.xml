@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_main_color">#4762FE</color>
+    <color name="app_top_bar_color">#FFFFFF</color>
+    <color name="app_title_color">#333333</color>
+
+
+    <color name="splash_bg">#FEFEFE</color>
+
+    <color name="result_view">#b0000000</color>
+    <color name="colorBackground">#F3F6FA</color>
+
+
+</resources>
