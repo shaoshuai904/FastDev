@@ -1,2 +1,3 @@
+include ':fastdev'
 include ':app'
 rootProject.name = "FastDev"
